@@ -10,7 +10,7 @@ const blogData: Blog[] = [
     author: {
       name: "Michelle Tumamao, CPA",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Madam",
     },
     tags: ["Learning"],
     publishDate: "2025",
@@ -24,7 +24,7 @@ const blogData: Blog[] = [
     author: {
       name: "Christian Tamis, CPA",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "MMA Hobbyist",
     },
     tags: ["MMA"],
     publishDate: "2025",
@@ -38,7 +38,7 @@ const blogData: Blog[] = [
     author: {
       name: "Eman Ting, POGI",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "The Rizzler",
     },
     tags: ["Rizzing"],
     publishDate: "2025",
